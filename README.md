@@ -1,4 +1,5 @@
 This was my first project with Frontend Mentor.
+See the hosted project [here](https://wrgrant.github.io/fm-minimal-blog-card/).
 
 I have decided to embrace learning frontend development properly by completing the projects focused on basic HTML and CSS.
 
